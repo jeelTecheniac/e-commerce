@@ -57,7 +57,7 @@ A modern e-commerce application built with React, Redux, and Tailwind CSS that a
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jeelTecheniac/e-commerce.git
    ```
 2. Navigate to the project directory
    ```bash
