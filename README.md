@@ -75,8 +75,8 @@ A modern e-commerce application built with React, Redux, and Tailwind CSS that a
 
 ## Project Structure
 
-````plaintext
-```src/
+```plaintext
+src/
 ├── components/
 │   ├── Auth/
 │   │   ├── LoginForm.jsx
@@ -104,4 +104,4 @@ A modern e-commerce application built with React, Redux, and Tailwind CSS that a
 │   └── store.js
 ├── App.js
 └── index.js
-````
+```
