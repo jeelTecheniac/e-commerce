@@ -4,7 +4,7 @@ A modern e-commerce application built with React, Redux, and Tailwind CSS that a
 
 ## Live Demo
 
-[View Live Demo](https://jocular-salmiakki-05650a.netlify.app/)
+[View Live Demo](https://dynamic-parfait-e101ad.netlify.app/)
 
 ## Features
 
